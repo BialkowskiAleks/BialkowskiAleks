@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/1b/3c/58/1b3c5821c4ef798f196b30cc3eb46ac2.gif)
 
 <h1 align="center">Hello there 👋, I'm Aleks</h1>
-<h2 align="center">A passionate Front-end Developer from Poland and there are couple of things i would like to show you...</h2>
+<h2 align="center">A passionate Front-end Developer from Poland and there are a couple of things i would like to show you...</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bialkowskialeks&label=Profile%20views&color=0e75b6&style=flat" alt="bialkowskialeks" /> </p>
 <br/>
 <br/>
