@@ -1,4 +1,4 @@
-![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/516/516/desktop-wallpaper-ultrawide-21-9-cyberpunk-pc.jpg)
+![MasterHead](https://i.pinimg.com/originals/1b/3c/58/1b3c5821c4ef798f196b30cc3eb46ac2.gif)
 
 <h1 align="center">Hello there 👋, I'm Aleks Białkowski</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
