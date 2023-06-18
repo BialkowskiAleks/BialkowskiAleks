@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **Portfolio 2023**
+- 🔭 I’m currently trying to get hired
 
-- 👨‍💻 All of my projects are available at **-soon-**
+- 👨‍💻 All of my projects are available at https://aleksbialkowski.com/
 
 - 🌱 I’m currently learning **React.js**
 
